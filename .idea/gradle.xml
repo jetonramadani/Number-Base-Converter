@@ -37,6 +37,10 @@
             <option value="$PROJECT_DIR$/Topics/Math library/Quadratic equation" />
             <option value="$PROJECT_DIR$/Topics/Math library/The angle between vectors" />
             <option value="$PROJECT_DIR$/Topics/Math library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
